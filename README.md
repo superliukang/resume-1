@@ -1,4 +1,4 @@
-[![NPM version](https://badge.fury.io/js/yangjunlong.png)](http://badge.fury.io/js/yangjunlong)
+[![NPM version](https://badge.fury.io/js/zhongxb.png)](http://badge.fury.io/js/zhongxb)
 > There is only one heroism in the world：to see the world as it is and to love it.
 
 ## 自我介绍
