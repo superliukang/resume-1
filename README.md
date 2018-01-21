@@ -46,8 +46,9 @@
 * 基于wepy 实现类Vue开发风格
 * 组件化：地图展示、基地定位、log统计等
 
-[项目地址](https://github.com/zxb5102/wx-location) 
-<img src="#">
+[项目地址](https://github.com/zxb5102/wx-location)
+
+<img src="https://github.com/zxb5102/resume/blob/master/img/code.png">
 请使用微信搜索 附近一书阁 查看
 
 **ICAN网站自适应优化**(2017.4 ~ 2017.5)
@@ -90,9 +91,7 @@
 * 使用原生小程序APi实现页面效果
 * 使用java参与后台数据接口的开发
 
-[项目地址]
-<img src="#" />
-请使用微信搜索 乐秀街 查看
+[项目地址]	请使用微信搜索 乐秀街 查看
 
 ---
 
