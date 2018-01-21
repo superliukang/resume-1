@@ -1,4 +1,3 @@
-# 个人简历
 [![NPM version](https://badge.fury.io/js/yangjunlong.png)](http://badge.fury.io/js/yangjunlong)
 > There is only one heroism in the world：to see the world as it is and to love it.
 
@@ -49,7 +48,7 @@
 [项目地址](https://github.com/zxb5102/wx-location)
 
 <img src="https://github.com/zxb5102/resume/blob/master/img/code.png">
-请使用微信扫描或是搜索 附近的一书阁
+请使用微信扫码或是搜索 附近的一书阁
 
 ---
 
@@ -82,7 +81,7 @@
 * 使用 ECharts 实现考试数据的图表展示
 * 用 easyUI 实现后台管理界面
 
-[线上预览](https://github.com/zxb5102/onlinexame)
+[项目地址](https://github.com/zxb5102/onlinexame)
 
 ---
 
@@ -94,7 +93,5 @@
 * 使用java参与后台数据接口的开发
 
 [项目地址]	请使用微信搜索 乐秀街 查看
-
----
 
 
