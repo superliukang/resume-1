@@ -49,7 +49,9 @@
 [项目地址](https://github.com/zxb5102/wx-location)
 
 <img src="https://github.com/zxb5102/resume/blob/master/img/code.png">
-请使用微信搜索 附近一书阁 查看
+请使用微信扫描或是搜索 附近的一书阁
+
+---
 
 **ICAN网站自适应优化**(2017.4 ~ 2017.5)
 > 网站是一个艺术文化交流推广的项目，之前设计的页面单调无法自适应移动端，通过bootstrap来优化达到适应移动端的目的
